@@ -43,7 +43,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Common.Core", "src\modules\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Common.Infrastructure", "src\modules\_common\Common.Infrastructure\Common.Infrastructure.csproj", "{4BB7B60B-4176-4D47-9EAF-B9A51372C5EB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Common.Persistence.EFCore", "src\modules\_common\Common.Persistence.EFCore\Common.Persistence.EFCore.csproj", "{F40BF03B-5FFD-4471-AF54-296B2251811B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Common.Persistence.SQL", "src\modules\_common\Common.Persistence.SQL\Common.Persistence.SQL.csproj", "{F40BF03B-5FFD-4471-AF54-296B2251811B}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Common.Persistence.NoSQL", "src\modules\_common\Common.Persistence.NoSQL\Common.Persistence.NoSQL.csproj", "{6CBE1F39-E15C-4FB7-ABA5-21BB11533877}"
 EndProject
