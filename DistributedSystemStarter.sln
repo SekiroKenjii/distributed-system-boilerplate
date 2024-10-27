@@ -53,6 +53,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "angular", "angular", "{1904
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Apps.CMS", "src\apps\blazor\Apps.CMS\Apps.CMS.csproj", "{42C2A6F3-69DE-436F-8510-F4CDA41C430C}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{CE9AEC04-17A5-499E-AF09-AAA785109B55}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
