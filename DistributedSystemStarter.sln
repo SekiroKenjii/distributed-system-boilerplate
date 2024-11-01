@@ -47,6 +47,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "oauth-server", "oauth-serve
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{36FD1E11-FA04-4EAD-A84D-2DF6195ACBD7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OAuthServer", "src\hosts\oauth-server\OAuthServer\OAuthServer.csproj", "{7B4F634E-EF1B-4544-B497-7291578D2CE3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -117,6 +119,10 @@ Global
 		{42C2A6F3-69DE-436F-8510-F4CDA41C430C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{42C2A6F3-69DE-436F-8510-F4CDA41C430C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{42C2A6F3-69DE-436F-8510-F4CDA41C430C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B4F634E-EF1B-4544-B497-7291578D2CE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B4F634E-EF1B-4544-B497-7291578D2CE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B4F634E-EF1B-4544-B497-7291578D2CE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B4F634E-EF1B-4544-B497-7291578D2CE3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -142,5 +148,6 @@ Global
 		{CF084D37-D7BA-40D3-BCD7-858DA50EF5D2} = {6746EFD2-1455-45F8-A61B-1A067B0624ED}
 		{F2AB9310-34E5-479D-8A3C-7B761BC05E0A} = {6746EFD2-1455-45F8-A61B-1A067B0624ED}
 		{C2BE0482-3632-48C3-9BFB-F0E1E4E5C9F9} = {CF084D37-D7BA-40D3-BCD7-858DA50EF5D2}
+		{7B4F634E-EF1B-4544-B497-7291578D2CE3} = {F2AB9310-34E5-479D-8A3C-7B761BC05E0A}
 	EndGlobalSection
 EndGlobal

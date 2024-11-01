@@ -402,3 +402,5 @@ MigrationBackup/
 .vscode/
 appsettings.json
 appsettings.Development.json
+
+crypto_key
